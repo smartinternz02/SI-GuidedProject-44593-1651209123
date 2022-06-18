@@ -3,7 +3,7 @@
 SpringBoot
 
 ## Skills Required:
-HTML,CSS,Java,MySQL,Springboot,Heroku Cloud
+HTML, CSS, Java, MySQL, Springboot, Heroku Cloud
 
 ## Project Description:
 
